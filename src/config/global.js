@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Ajustes y cierre del periodo',
+    Description:
+      'En este componente se desarrollan los ajustes contables, para generar los estados financieros de propósito general de acuerdo con la normativa legal vigente. Cabe resaltar, que la información contable y financiera, debe ser coherente con los hechos económicos realizados por la empresa en cumplimiento de su objeto social; por ende, debe expresar la realidad económica atendiendo a las Normas Internacionales de Información Financiera (NIIF) Al finalizar el periodo contable se realiza el cierre del ejercicio, teniendo en cuenta los ajustes contables, cuyo objetivo es corregir aquellas partidas que no quedaron contabilizadas correctamente o en su defecto se deben saldar, con el fin de mostrar la situación económica del ente económico.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
