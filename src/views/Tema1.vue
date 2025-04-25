@@ -1099,99 +1099,82 @@
             th Valor neto en libros
         tbody
           tr
-            td 
-            td 
-            td 
-            td 
-            td 
-            td 
+            td -
+            td -
+            td -
+            td -
+            td -
+            td -
           tr
             td 1
             td 2.800
-            td $ 2.000
-            td $ 5.600.000,00
-            td $ 5.600.000,00
-            td $ 34.400.000,00
+            td $2.000
+            td $5.600.000,00
+            td $5.600.000,00
+            td $34.400.000,00
           tr
             td 2
-            td $ 2.000
-            td $ 2.000
-            td $ 5.400.000,00
-            td $ 11.000.000,00
-            td $ 29.000.000,00
-
+            td 2.700
+            td $2.000
+            td $5.400.000,00
+            td $11.000.000,00
+            td $29.000.000,00
           tr
             td 3
-            td 2.450	
-
-            td $ 2.000
-            td $ 4.900.000,00	
-
-            td $ 15.900.000,00
-
-            td $ 24.100.000,00
-
+            td 2.450
+            td $2.000
+            td $4.900.000,00
+            td $15.900.000,00
+            td $24.100.000,00
           tr
             td 4
             td 2.200
-
-            td $ 2.000
-            td $ 4.400.000,00
-
-            td $ 20.300.000,00
-
-            td $ 19.700.000,00
-
+            td $2.000
+            td $4.400.000,00
+            td $20.300.000,00
+            td $19.700.000,00
           tr
             td 5
-            td 1.900	
-
-            td $ 2.000
-            td $ 3.800.000,00
-
-            td $ 24.100.000,00	
-
-            td $ 15.900.000,00
-
+            td 1.900
+            td $2.000
+            td $3.800.000,00
+            td $24.100.000,00
+            td $15.900.000,00
           tr
             td 6
-            td 1.750	
-
-            td $ 2.000
-            td $ 3.500.000,00
-
-            td $ 27.600.000,00
-
-            td $ 12.400.000,00
-
+            td 1.750
+            td $2.000
+            td $3.500.000,00
+            td $27.600.000,00
+            td $12.400.000,00
           tr
             td 7
-            td 
-            td $ 2.000
-            td 
-            td 
-            td 
+            td 1.900
+            td $2.000
+            td $3.800.000,00
+            td $31.400.000,00
+            td $8.600.000,00
           tr
             td 8
-            td 
-            td $ 2.000
-            td 
-            td 
-            td 
+            td 1.600
+            td $2.000
+            td $3.200.000,00
+            td $34.600.000,00
+            td $5.400.000,00
           tr
             td 9
-            td 
-            td $ 2.000
-            td 
-            td 
-            td 
+            td 1.400
+            td $2.000
+            td $2.800.000,00
+            td $37.400.000,00
+            td $2.600.000,00
           tr
             td 10
-            td 
-            td $ 2.000
-            td 
-            td 
-            td 
+            td 1.300
+            td $2.000
+            td $2.600.000,00
+            td $2.600.000,00
+            td $40.000.000,00
     Separador 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Amortización
@@ -1996,86 +1979,86 @@
           table
             thead(style="background-color: #FD9826 ").border-0
               tr
+                th Código
                 th Cuenta
-                th Débito
-                th Crédito
+                th Saldo
             tbody
               tr
-                td 
-                td 
-                td
+                td 1105
+                td Caja
+                td $409.000
               tr
-                td 
-                td 
-                td
+                td 1110
+                td Bancos
+                td $17.680.000
               tr
-                td 
-                td 
-                td
+                td 1705
+                td Gastos pagados por anticipado
+                td $1.170.000
               tr
-                td 
-                td 
-                td
+                td 1305
+                td Clientes
+                td $5.070.000
               tr
-                td 
-                td 
-                td
+                td 1365
+                td Cuentas por cobrar a trabajadores
+                td $520.000
               tr
-                td 
-                td 
-                td
+                td 1435
+                td Inventarios
+                td $32.500.000
               tr
-                td 
-                td 
-                td
+                td 1524
+                td Equipo de oficina
+                td $6.500.000
               tr
-                td 
-                td 
-                td
+                td 1540
+                td Flota y equipo de transporte
+                td $62.400.000
               tr
-                td 
-                td 
-                td
+                td 1592
+                td Depreciación acumulada
+                td $7.670.000
               tr
-                td 
-                td 
-                td
+                td 2105
+                td Obligaciones nacionales
+                td $630.000
               tr
-                td 
-                td 
-                td
+                td 2205
+                td Proveedores nacionales
+                td $3.120.000
               tr
-                td 
-                td 
-                td
+                td 2408
+                td Impuestos sobre las ventas por pagar
+                td $910.000
               tr
-                td 
-                td 
-                td
+                td 2705
+                td Ingresos recibidos por anticipado
+                td $130.000
               tr
-                td 
-                td 
-                td
+                td 3115
+                td Aportes sociales
+                td $98.800.000
               tr
-                td 
-                td 
-                td
+                td 5105
+                td Gastos de personal
+                td $4.160.000
               tr
-                td 
-                td 
-                td
+                td 4135
+                td Ingresos ordinarios
+                td $42.120.000
               tr
-                td 
-                td 
-                td
+                td 4210
+                td Ingresos Financieros
+                td $364.000
               tr
-                td 
-                td 
-                td
+                td 5305
+                td Gastos Financieros
+                td $585.000
               tr
-                td 
-                td 
-                td
+                td 6135
+                td Costo de ventas
+                td $22.750.000
       .col-lg-5.col-7: img(src='@/assets/curso/temas/37.svg', alt='')
     p.mb-4 Para elaborar el balance de comprobación o de prueba es importante organizar cada una de las cuentas teniendo en cuenta la clase de activo, pasivo, patrimonio, ingresos, gastos y costos, luego se traslada el saldo de acuerdo con la naturaleza de cada cuenta. Finalmente, se verifica que el total débito y crédito tengan el mismo valor. A continuación, observe la solución del ejercicio planteado:
     .row.justify-content-center.mb-5
@@ -2238,7 +2221,7 @@
                 td $ 13.289.833
     p.mb-4 El ejercicio presentó utilidad, teniendo en cuenta que los ingresos superaron los costos y gastos; por lo tanto, se realizó el registro crédito aumentando el patrimonio. En el caso en que los ingresos sean inferiores a los costos y gastos, se refleja una pérdida en el ejercicio, disminuyendo el patrimonio (débito).
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 42.
           span Balance final de saldos contables
@@ -2252,115 +2235,120 @@
                 th Haber
             tbody
               tr
+                td 1105
+                td Caja
                 td 
-                td 
-                td
-                td
+                td $409.000
               tr
+                td 110
+                td Bancos
                 td 
-                td 
-                td
-                td
+                td $17.680.000
               tr
+                td 1305
+                td Clientes
                 td 
-                td 
-                td
-                td
+                td $5.070.000
               tr
+                td 1365
+                td Cuentas por cobrar a trabajadores
                 td 
-                td 
-                td
-                td
+                td $520.000
               tr
+                td 1435
+                td Inventarios
                 td 
-                td 
-                td
-                td
+                td $32.500.000
               tr
+                td 1524
+                td Equipo de oficina
                 td 
-                td 
-                td
-                td
+                td $6.500.000
               tr
+                td 1540
+                td Flota y equipo de transporte
                 td 
-                td 
-                td
-                td
+                td $62.400.000
               tr
-                td 
-                td 
-                td
-                td
+                td 1592
+                td Depreciación acumulada
+                td -
+                td -
               tr
+                td 1705
+                td Gastos pagados por anticipado
                 td 
-                td 
-                td
-                td
+                td $1.170.000
               tr
-                td 
-                td 
-                td
-                td
+                td 2105
+                td Obligaciones nacionales
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 2205
+                td Proveedores nacionales
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 2408
+                td Impuestos sobre las ventas por pagar
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 2705
+                td Ingresos recibidos por anticipado
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 3115
+                td Aportes sociales
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 4135
+                td Ingresos ordinarios
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 4210
+                td Ingresos Financieros
+                td -
+                td -
               tr
+                td 5105
+                td Gastos de personal
                 td 
-                td 
-                td
-                td
+                td $4.160.000
               tr
-                td 
-                td 
-                td
-                td
+                td 5120
+                td Gastos arrendamiento
+                td -
+                td -
               tr
-                td 
-                td 
-                td
-                td
+                td 5160
+                td Gastos depreciación
+                td -
+                td -
               tr
+                td 5305
+                td Gastos Financieros
                 td 
-                td 
-                td
-                td
+                td $585.000
               tr
+                td 6135
+                td Costo de ventas
                 td 
-                td 
-                td
-                td
+                td $22.750.000
               tr
+                td 3605
+                td Utilidad del ejercicio
+                td -
+                td -
+              tr.fw-bold
                 td 
+                td TOTAL
                 td 
-                td
-                td
+                td $153.744.000
 
 
 
