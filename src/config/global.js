@@ -8,11 +8,15 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/a1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/a2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/a3.svg'),
       },
     ],
   },
@@ -32,28 +36,45 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Ajustes de cierre',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: '',
             hash: 't_1_1',
           },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.1',
+            titulo: '',
+            hash: 't_1_7',
+          },
         ],
-      },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Tema 2',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Tema 3',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
